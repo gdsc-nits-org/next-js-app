@@ -1,6 +1,6 @@
 import Head from "next/head";
 import { Poppins } from "next/font/google";
-import styles from "@/styles/Home.module.css";
+import styles from "@/styles/Home.module.scss";
 
 const poppins = Poppins({
   subsets: ["latin"],
